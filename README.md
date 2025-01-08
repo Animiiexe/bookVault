@@ -31,7 +31,7 @@ A simple web application to add books and sort them based on likes, dislikes, an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/book-likes-counter.git
+   git clone https://github.com/Animiiexe/book-likes-counter.git
    cd book-likes-counter
    ```
 
